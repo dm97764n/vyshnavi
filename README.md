@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Dundi vyshnavi durga majji
 🚀 Data Engineer | SQL | Python | Spark | AWS | Big Data
 
 - 🔭 Currently working on Data Engineering projects
